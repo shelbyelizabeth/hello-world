@@ -1,2 +1,4 @@
 # hello-world
-learnin github
+learning github
+
+trying to slow down and really learn all the things 
